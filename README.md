@@ -1,4 +1,4 @@
---Custom Dashboard-with Data Visualization(KPI Dashboard)--
+--Responsive Custom Dashboard-with Data Visualization(KPI Dashboard)--
 
 Welcome to the Custom Dashboard project repository! This project is a dynamic, data-driven KPI dashboard built using modern web 
 technologies, offering visualization of key performance indicators (KPIs) for business insights.
